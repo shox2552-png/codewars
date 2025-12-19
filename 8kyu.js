@@ -33,8 +33,9 @@
 // }
 // console.log(sumMix(arr));
 
-let array = [1, 2, 3, 4, 5]
+// let array = [1, 2, 3, 4, 5]
 
-function invert(array) {
-    
-}
+// function invert(array) {
+//     array.map((n)=> 0-n)
+// }
+// console.log(array);
