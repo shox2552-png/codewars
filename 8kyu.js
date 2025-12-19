@@ -25,10 +25,16 @@
 
 //  return arr.filter((value , i) => !( i % 2) && value);
 
-let arr = ([9, 3, "7", "3"], 22)
+// let arr = ([9, 3, "7", "3"], 22)
 
-function sumMix(arr, sum = 0) {
-    arr.forEach((v) => (sum += Number(v)))
-    return sum
+// function sumMix(arr, sum = 0) {
+//     arr.forEach((v) => (sum += Number(v)))
+//     return sum
+// }
+// console.log(sumMix(arr));
+
+let array = [1, 2, 3, 4, 5]
+
+function invert(array) {
+    
 }
-console.log(sumMix(arr));
