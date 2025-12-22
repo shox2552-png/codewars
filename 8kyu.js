@@ -39,8 +39,9 @@
 //     array.map((n)=> 0-n)
 // }
 // console.log(array);
-let arr = [1, 2, 3, 4]
 
-let newArr = arr.reduce((a,b) =>  a*b,1 )
+// let arr = [1, 2, 3, 4]
 
-console.log(newArr);
+// let newArr = arr.reduce((a,b) =>  a*b,1 )
+
+// console.log(newArr);
