@@ -68,7 +68,17 @@
 // }
 // console.log();
 
-let arr = ["Algebra", "History", "Geometry", "English"]
+// let arr = ["Algebra", "History", "Geometry", "English"]
 
-arr = arr.sort((a, b) => a.toLowerCase() > b.toLowerCase())? 1 : -1
-console.log(arr);
+// arr = arr.sort((a, b) => a.toLowerCase() > b.toLowerCase())? 1 : -1
+// console.log(arr);
+
+let str = "Robin Singh"
+
+let str2 = "I love arrays they are my favorite"
+
+let s = str.split(" ")
+console.log(s);
+
+let st = str2.split(" ")
+console.log(st);
