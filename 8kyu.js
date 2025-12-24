@@ -54,3 +54,21 @@
 // })
 
 // console.log(newArr);
+
+
+
+// function sum(numbers) {
+//   let total = 0;
+
+//   for (let i = 0; i < numbers.length; i++) {
+//     total += numbers[i];
+//   }
+
+//   return total;
+// }
+// console.log();
+
+let arr = ["Algebra", "History", "Geometry", "English"]
+
+arr = arr.sort((a, b) => a.toLowerCase() > b.toLowerCase())? 1 : -1
+console.log(arr);
