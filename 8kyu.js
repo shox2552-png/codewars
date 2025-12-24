@@ -73,12 +73,19 @@
 // arr = arr.sort((a, b) => a.toLowerCase() > b.toLowerCase())? 1 : -1
 // console.log(arr);
 
-let str = "Robin Singh"
+// let str = "Robin Singh"
 
-let str2 = "I love arrays they are my favorite"
+// let str2 = "I love arrays they are my favorite"
 
-let s = str.split(" ")
-console.log(s);
+// let s = str.split(" ")
+// console.log(s);
 
-let st = str2.split(" ")
-console.log(st);
+// let st = str2.split(" ")
+// console.log(st);
+
+
+
+// let arr = [1, 2, 2]
+// let sum = 0
+// let newArr = arr.forEach((value) => sum += value**2)
+// console.log(sum);
