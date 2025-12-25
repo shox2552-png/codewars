@@ -89,3 +89,12 @@
 // let sum = 0
 // let newArr = arr.forEach((value) => sum += value**2)
 // console.log(sum);
+
+let arr = [10]
+
+let result = []
+for (let i = 1; i <= 10; i++){
+    result.push(i)
+}
+
+console.log(result);
