@@ -90,11 +90,20 @@
 // let newArr = arr.forEach((value) => sum += value**2)
 // console.log(sum);
 
-let arr = [10]
+// let arr = [10]
 
-let result = []
-for (let i = 1; i <= 10; i++){
-    result.push(i)
-}
+// let result = []
+// for (let i = 1; i <= 10; i++){
+//     result.push(i)
+// }
 
-console.log(result);
+// console.log(result);
+
+
+// function typeOfSum(a,b){
+//     return typeof a+b
+// }
+
+// function opposite(number) {
+//     return -number
+// }
