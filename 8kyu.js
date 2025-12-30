@@ -108,13 +108,23 @@
 //     return -number
 // }
 
-let arr = [1, -4, 7, 12]
+// let arr = [1, -4, 7, 12]
 
-let sum = 0
+// let sum = 0
 
-for (let i = 0; i < arr.length; i++) {
-    if (arr[i] > 0) {
-        sum += arr[i]
-    }
-}
-console.log(sum);
+// for (let i = 0; i < arr.length; i++) {
+//     if (arr[i] > 0) {
+//         sum += arr[i]
+//     }
+// }
+// console.log(sum);
+
+// function countBy(x, n) {
+//     let z = [];
+//     for (let i = 1; i <= n; i++) {
+//         z.push(x * i)
+//     }
+//     return z;
+// }
+// console.log(countBy(1,10));
+// console.log(countBy(2,5));
