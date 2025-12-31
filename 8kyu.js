@@ -128,3 +128,16 @@
 // }
 // console.log(countBy(1,10));
 // console.log(countBy(2,5));
+
+// function arr2bin(arr){
+//   let sum = 0
+//   for(let value of arr){
+//     if(typeof value === "number"){
+//       if(Number.isNaN(value)){
+//         return "NaN"
+//       }
+//       sum += value
+//     }
+//   }
+//   return sum.toString(2)
+// }
