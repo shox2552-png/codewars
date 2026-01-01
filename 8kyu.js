@@ -141,3 +141,11 @@
 //   }
 //   return sum.toString(2)
 // }
+
+// args_count() --> 0
+// args_count('a') --> 1
+// args_count('a', 'b') --> 2
+
+// function args_count(){
+//   return arguments.length
+// }
