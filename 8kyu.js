@@ -149,3 +149,6 @@
 // function args_count(){
 //   return arguments.length
 // }
+
+
+// let sortList = (sortBy, list)=> list.sort((a, b) => b[sortBy] - a[sortBy])
