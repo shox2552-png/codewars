@@ -152,3 +152,13 @@
 
 
 // let sortList = (sortBy, list)=> list.sort((a, b) => b[sortBy] - a[sortBy])
+
+function consecutive(array) {
+  if(array.length<=1)   return 0;
+    let min = Math.min(...array);
+    let max = Math.max(...array);
+  return(max - min +1)-array.length
+}
+console.log(array);
+
+
