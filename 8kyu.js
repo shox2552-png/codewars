@@ -50,7 +50,7 @@
 // let arr = [1, 2, 3, 4, 5, 6]
 
 // let newArr = arr.filter((num) => {
-//    return  num = num % 2 === 0 
+//    return  num = num % 2 === 0
 // })
 
 // console.log(newArr);
@@ -155,11 +155,10 @@
 
 // function consecutive(array) {
 //   if(array.length<=1)   return 0;
-//     let min = Math.min(...array);
-//     let max = Math.max(...array);
-//   return(max - min +1)-array.length
+//     let a = Math.min(...array);
+//     let b = Math.max(...array);
+//   return( b - a +1)-array.length
 // }
-// console.log(array);
 
 // function arithmetic(a, b, operator){
 //   if(operator === "add"){return a+b }
@@ -167,3 +166,7 @@
 //   if(operator === "multiply"){return a*b}
 //   if(operator === "divide"){return a/b}
 // }
+
+var OrderPeople = function(people){
+  return people.sort((a,b)=>a.age-b.age);
+}
