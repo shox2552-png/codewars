@@ -167,6 +167,6 @@
 //   if(operator === "divide"){return a/b}
 // }
 
-var OrderPeople = function(people){
-  return people.sort((a,b)=>a.age-b.age);
-}
+// var OrderPeople = function(people){
+//   return people.sort((a,b)=>a.age-b.age);
+// }
