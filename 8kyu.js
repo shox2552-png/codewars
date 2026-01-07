@@ -170,3 +170,5 @@
 // var OrderPeople = function(people){
 //   return people.sort((a,b)=>a.age-b.age);
 // }
+
+// let isSquare = (arr)=> arr.length ? arr.map((n)=>!`${Math.sqrt(n)}`.includes(".")).every((v)=>v) : undefined;
