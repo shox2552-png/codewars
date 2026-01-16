@@ -172,3 +172,6 @@
 // }
 
 // let isSquare = (arr)=> arr.length ? arr.map((n)=>!`${Math.sqrt(n)}`.includes(".")).every((v)=>v) : undefined;
+
+
+// items = [{a: "b", c: "d"}]
