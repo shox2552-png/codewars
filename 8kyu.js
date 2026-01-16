@@ -181,3 +181,4 @@
 //   if(!array || array.length<3) return 0
 //   return array.reduce((acc,curr)=>acc + curr,0) - Math.min(...array) - Math.max(...array);
 // }
+// let sumArray = (array)=> !array || array.length < 3 ? 0 : array.reduce((acc , curr)=> acc + curr , 0) - Math.min(...array) - Math.max(...array)
