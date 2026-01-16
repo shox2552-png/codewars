@@ -182,3 +182,6 @@
 //   return array.reduce((acc,curr)=>acc + curr,0) - Math.min(...array) - Math.max(...array);
 // }
 // let sumArray = (array)=> !array || array.length < 3 ? 0 : array.reduce((acc , curr)=> acc + curr , 0) - Math.min(...array) - Math.max(...array)
+
+// function stringy(size, a='') {
+//    for (let i = 0; i < size; i++) {  a += i % 2 === 0 ? '1' : '0';} return a}
