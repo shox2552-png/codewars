@@ -186,3 +186,8 @@
 // function stringy(size, a='') {
 //    for (let i = 0; i < size; i++) {  a += i % 2 === 0 ? '1' : '0';} return a}
 // let stringy = (size)=> Array(size).fill(0).map((v,i)=>(i+1)%2?1:0).join("");
+// let gooseFilter = (arr)=> arr = arr.filter((v)=> !["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"].includes(v))
+
+// function smash (words) {
+//    return words.join(" ");
+// };
