@@ -225,3 +225,13 @@
 //   if (v instanceof Date) return "date";
 //   return typeof v;
 // }
+
+// function findMissingNumbers(arr) {
+// let com = []
+// for(let i = arr [0]; i <= arr [arr.length -1]; i++ ){
+//   if(!arr.includes(i)){
+//     com.push(i)
+//   }
+// }
+//   return com
+// }
