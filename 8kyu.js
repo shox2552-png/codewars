@@ -219,3 +219,9 @@
 //     str = (+arr1.at(-i) || 0) + (+arr2.at(-i) || 0) + str;
 //   return +str;
 // };
+
+// function type(v) {
+//   if (Array.isArray(v)) return "array";
+//   if (v instanceof Date) return "date";
+//   return typeof v;
+// }
