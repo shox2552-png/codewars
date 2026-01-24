@@ -235,3 +235,9 @@
 // }
 //   return com
 // }
+
+// function findLongest(array) {
+//   return array.reduce((acc, cur) =>
+//     String(acc).length >= String(cur).length ? acc : cur
+//   );
+// }
