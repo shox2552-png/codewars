@@ -241,3 +241,5 @@
 //     String(acc).length >= String(cur).length ? acc : cur
 //   );
 // }
+
+// let  getCount = str => str.split('').filter(c => 'aeiou'.includes(c)).length;
