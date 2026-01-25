@@ -247,3 +247,5 @@
 // function wordsToSentence(words) {
 //   return words.join(" ");
 // }
+
+// let powerOf4 = n => Number.isInteger(n) && n > 0 && Number.isInteger(Math.log(n)/Math.log(4))
