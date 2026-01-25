@@ -243,3 +243,7 @@
 // }
 
 // let  getCount = str => str.split('').filter(c => 'aeiou'.includes(c)).length;
+
+// function wordsToSentence(words) {
+//   return words.join(" ");
+// }
