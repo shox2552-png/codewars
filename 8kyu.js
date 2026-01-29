@@ -262,3 +262,6 @@
 //   if (!nums) return [];           
 //   return nums.sort((a, b) => a - b); 
 // }
+
+
+// const titleToNumber = title => title.split("").map(a => a.charCodeAt() - 64).reduce((a, b) => a * 26 + b);
