@@ -267,3 +267,5 @@
 // const titleToNumber = title => title.split("").map(a => a.charCodeAt() - 64).reduce((a, b) => a * 26 + b);
 
 // f=lambda s,v:any(x==v or isinstance(x,list) and f(x,v) for x in s)
+
+// let incrementer = (nums) =>  nums.map((num, i) => (num + i + 1) % 10); 
