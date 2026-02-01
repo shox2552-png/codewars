@@ -269,3 +269,9 @@
 // f=lambda s,v:any(x==v or isinstance(x,list) and f(x,v) for x in s)
 
 // let incrementer = (nums) =>  nums.map((num, i) => (num + i + 1) % 10); 
+
+// function add(n) {
+//   return function (x) {
+//     return x + n;
+//   };
+// }
