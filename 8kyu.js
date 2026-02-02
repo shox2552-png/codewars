@@ -275,3 +275,5 @@
 //     return x + n;
 //   };
 // }
+
+// let digitalRoot = (n) => n === 0 ? 0 : 1 + (n - 1) % 9;
