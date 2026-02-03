@@ -277,3 +277,10 @@
 // }
 
 // let digitalRoot = (n) => n === 0 ? 0 : 1 + (n - 1) % 9;
+
+// let  maxProduct = arr => {
+//   let a = 0, b = 0;
+//   for (const x of arr)
+//     x > a ? ([b, a] = [a, x]) : x > b && (b = x);
+//   return a * b;
+// };
