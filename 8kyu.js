@@ -284,3 +284,4 @@
 //     x > a ? ([b, a] = [a, x]) : x > b && (b = x);
 //   return a * b;
 // };
+// let stray = (n) => n.reduce((a,b) => a^b)
