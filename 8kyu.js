@@ -285,3 +285,5 @@
 //   return a * b;
 // };
 // let stray = (n) => n.reduce((a,b) => a^b)
+
+// let maxDiff=(list)=>  list.length ? Math.max(...list) - Math.min(...list) : 0;
