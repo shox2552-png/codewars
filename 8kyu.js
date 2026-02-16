@@ -297,3 +297,14 @@
 //       return `${this.name} is a ${this.type}`;
 //     }
 // }
+
+
+// function makeClass(...arr) {
+//   return class {
+//     constructor(...a) {
+//       for (let i = 0; i < arr.length; i++) {
+//         this[arr[i]] = a[i];
+//       }
+//     }
+//   };
+// }
