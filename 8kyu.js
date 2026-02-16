@@ -287,3 +287,13 @@
 // let stray = (n) => n.reduce((a,b) => a^b)
 
 // let maxDiff=(list)=>  list.length ? Math.max(...list) - Math.min(...list) : 0;
+
+class Animal {
+    constructor(name, type) {
+        this.name = name
+        this.type = type
+    }
+    toString(){
+      return `${this.name} is a ${this.type}`;
+    }
+}
