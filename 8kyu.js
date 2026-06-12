@@ -334,3 +334,7 @@
 // function enough(cap, on, wait) {
 //   return Math.max(on+wait-cap,0)
 // }
+
+// function evenOrOdd(num) {
+//   return num %2 === 0 ? "Even":"Odd"
+// } 
