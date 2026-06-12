@@ -326,3 +326,7 @@
 // function take(arr, n) {
 //   return arr.slice(0,n)
 // }
+
+// function include(arr, item){
+//   return arr.includes(item)
+// }
