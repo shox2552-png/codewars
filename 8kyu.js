@@ -330,3 +330,7 @@
 // function include(arr, item){
 //   return arr.includes(item)
 // }
+
+// function enough(cap, on, wait) {
+//   return Math.max(on+wait-cap,0)
+// }
