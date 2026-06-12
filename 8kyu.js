@@ -338,3 +338,8 @@
 // function evenOrOdd(num) {
 //   return num %2 === 0 ? "Even":"Odd"
 // } 
+
+
+// function twoHighest(arr) {
+//   return [...new Set(arr)].sort((a, b) => b - a).slice(0, 2)
+// }
