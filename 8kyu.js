@@ -322,3 +322,7 @@
 //   }
 //   return "Who ate the last cookie? It was the dog!"
 // }
+
+// function take(arr, n) {
+//   return arr.slice(0,n)
+// }
