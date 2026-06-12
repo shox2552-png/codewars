@@ -312,3 +312,13 @@
 // let arr = [1, 2, 3]
 // let newArr = arr.map((n)=> n*2 )
 //  console.log(newArr);
+
+// function cookie(x){
+// if(typeof x === "string"){
+//   return "Who ate the last cookie? It was Zach!"
+// }
+//   if(typeof x === "number"){
+// return "Who ate the last cookie? It was Monica!"
+//   }
+//   return "Who ate the last cookie? It was the dog!"
+// }
